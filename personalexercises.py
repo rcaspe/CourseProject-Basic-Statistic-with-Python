@@ -43,7 +43,7 @@ print(i)
 
 '''
 
-import pandas as pd
+import pandas
 
 df = pd.read_csv(r'myfile.csv')
 print(df)
