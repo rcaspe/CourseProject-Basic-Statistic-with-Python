@@ -15,3 +15,21 @@
     # conda create -n myenv pandas numpy matploylib
         # syntaxt
             # conda create -n > (name of environment) > (packages (optional)) > (libraries (optional))
+
+    # diplays all the packages installed in the virtual environment
+        # syntax
+            # conda list
+    
+    # diplay the current verions
+        # syntax
+            # conda --version
+
+    # launches jupyter notebook browser
+        # syntax
+            # jupyter notebook
+
+    # activates the specified virtual environment
+        # syntax
+            # conda activate <name of virtual environment>
+
+
